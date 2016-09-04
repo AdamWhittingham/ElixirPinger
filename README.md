@@ -1,24 +1,3 @@
 # Pinger
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add `pinger` to your list of dependencies in `mix.exs`:
-
-    ```elixir
-    def deps do
-      [{:pinger, "~> 0.1.0"}]
-    end
-    ```
-
-  2. Ensure `pinger` is started before your application:
-
-    ```elixir
-    def application do
-      [applications: [:pinger]]
-    end
-    ```
-
+A little Elixir project for pinging sites; purely a learning project!
